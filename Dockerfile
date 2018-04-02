@@ -1,5 +1,5 @@
 # Pull base image
-FROM hub.c.163.com/library/centos:6.8
+FROM centos:6.8
 
 MAINTAINER zjg23 "zhaojianguo1234@aliyun.com"
 
